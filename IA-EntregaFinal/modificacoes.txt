@@ -1,0 +1,6 @@
+\IA-EntregaFinal\FF15\src\javaff\search
+
+Funções novas adicionadas.
+
+->AStarSearch.java
+->AValueComparator.java
